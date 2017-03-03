@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="94.288732">
+<testcase classname="First Maintenance" name="AC1: Normal process for First Maintenance" time="46.482769">
+<system-out><![CDATA[Given Login to system for testing First Maintenance.........................passed
+Given Navigate to Enter Maintenance Page....................................passed
+Then Enter insurance detail in Enter Maintenance Page.......................passed
+And Save in Enter Maintenance Page..........................................passed
+Then Check if the insurance details correct in previous page in First Maintenance process.passed
+]]></system-out>
+</testcase>
+<testcase classname="Renewal Insurance" name="AC1: Normal process for Renewal Insurance" time="47.805963">
+<system-out><![CDATA[Given Login to system for testing Renewal Insurance.........................passed
+Given Navigate to Enter Maintenance Page in Renewal Insurance process.......passed
+Then Enter insurance detail in Enter Maintenance Page in Renewal Insurance process.passed
+And Save the insurance detail in Renewal Insurance process..................passed
+Then Check if the insurance details correct in previous page in Renewal Insurance process.passed
+]]></system-out>
+</testcase>
+</testsuite>
